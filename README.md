@@ -25,7 +25,7 @@
 ## 🏆 Github Stats
 
 <p align="left">
-<img height="300px" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Sumandeep-kaur&theme=synthwave">
-<img align="right" height="300px" width="500px" src="https://github-readme-streak-stats.herokuapp.com/?user=Sumandeep-kaur&theme=synthwave">
+<img height="300px" width="400" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Sumandeep-kaur&theme=synthwave">
+<img align="right" height="300px" width="450px" src="https://github-readme-streak-stats.herokuapp.com/?user=Sumandeep-kaur&theme=synthwave">
 </p>
 <img src="https://activity-graph.herokuapp.com/graph?username=Sumandeep-kaur&bg_color=2B213A&color=E5289E&line=DA5B0B&point=E1E8EB">
