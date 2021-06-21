@@ -1,15 +1,19 @@
 <h1 align="center"> Hi there 👋, My name is Suman </h1>
 <h2 align="center"> I'm a passionate Frontend Developer </h2>
 <br>
+
+Hey! I'm Suman from India. I'm a second year undergraduate student majoring in Computer Science with an interest in web development and software development. Currently, I am working on Frontend Web Development, soaking up as much knowledge and practice as I can in an attempt to perfect my craft. I have experience using HTML, CSS, Javascript and I've just started diving into ReactJS.
+<br><br>
+
 <img align="right" src ="https://thumbs.dreamstime.com/b/vector-female-programmer-software-engineer-coding-desktop-isometric-193608287.jpg" alt="image" width="350" height="250"/> 
   
 - 👨‍💻 All of my projects are available at [https://github.com/Sumandeep-Kaur](https://github.com/Sumandeep-Kaur)
-- 🔭 I’m currently working on **frontend development projects**
-- 🌱 I’m currently learning **Javascript and React**
-- 💬 Ask me about **C++, DSA, HTML, CSS and Javascript**
+- 🔭 I’m currently working on frontend development projects
+- 🌱 I’m currently learning Javascript and React
+- 💬 Ask me about C++, DSA, HTML, CSS and Javascript
 - 📫 How to reach me: sumandeep4300@gmail.com 
 - 😄 Pronouns: She/Her
-- ⚡ One line to best describe me: **An ambitious girl who loves turning great ideas into reality!**
+- ⚡ One line to best describe me: An ambitious girl who loves turning great ideas into reality!
 <br>
 
 ## Languages and Tools
