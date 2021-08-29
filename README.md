@@ -2,7 +2,7 @@
 <h2 align="center"> I'm a passionate Frontend Developer </h2>
 <br>
 
-Hey! I'm Suman from India. I'm a second year undergraduate student majoring in Computer Science with an interest in web development and software development. Currently, I am working on Frontend Web Development, soaking up as much knowledge and practice as I can in an attempt to perfect my craft. I have experience using HTML, CSS, Javascript and I've just started diving into ReactJS.
+Hey! I'm Suman from India. I'm a pre-final year undergraduate student majoring in Computer Science with an interest in web development and software development. Currently, I am working on Frontend Web Development, soaking up as much knowledge and practice as I can in an attempt to perfect my craft. I have experience using HTML, CSS, Javascript and I've just started diving into ReactJS.
 <br><br>
 
 <img align="right" src ="https://thumbs.dreamstime.com/b/vector-female-programmer-software-engineer-coding-desktop-isometric-193608287.jpg" alt="image" width="350" height="250"/> 
