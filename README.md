@@ -5,7 +5,10 @@
 Hey! I'm Suman from India. I'm a pre-final year undergraduate student majoring in Computer Science with an interest in web development and software development. Currently, I am working on Frontend Web Development, soaking up as much knowledge and practice as I can in an attempt to perfect my craft. I have experience using HTML, CSS, Javascript and I've just started diving into ReactJS.
 <br><br>
 
-<img align="right" src ="https://thumbs.dreamstime.com/b/vector-female-programmer-software-engineer-coding-desktop-isometric-193608287.jpg" alt="image" width="350" height="250"/> 
+<!--
+<img align="right" src ="https://thumbs.dreamstime.com/b/vector-female-programmer-software-engineer-coding-desktop-isometric-193608287.jpg" alt="image" width="350" height="250"/>  -->
+
+<img align="right" src ="git.gif" alt="image" width="430" height="250"/>
   
 - 👨‍💻 All of my projects are available at [https://github.com/Sumandeep-Kaur](https://github.com/Sumandeep-Kaur)
 - 🔭 I’m currently working on frontend development projects
