@@ -11,7 +11,7 @@
 </p>
 <br>
 
-Hey! I'm Suman from India. I'm a pre-final year undergraduate student majoring in Computer Science with an interest in web development and software development. Currently, I am working on Frontend Web Development, soaking up as much knowledge and practice as I can in an attempt to perfect my craft. I have experience using HTML, CSS, Javascript and I've just started diving into ReactJS.
+Hey! I'm Suman from India. I'm a final year undergraduate student majoring in Computer Science with an interest in web development and software development. Currently, I am working on Frontend Web Development, soaking up as much knowledge and practice as I can in an attempt to perfect my craft. I have experience using HTML, CSS, Javascript and I've just started diving into ReactJS.
 <br><br>
 
 <!--
@@ -21,7 +21,7 @@ Hey! I'm Suman from India. I'm a pre-final year undergraduate student majoring i
   
 - 👨‍💻 All of my projects are available at [https://github.com/Sumandeep-Kaur](https://github.com/Sumandeep-Kaur)
 - 🔭 I’m currently working on frontend development projects
-- 🌱 I’m currently learning Javascript and React
+- 🌱 I’m currently learning ReactJS
 - 💬 Ask me about C++, DSA, HTML, CSS and Javascript
 - 📫 How to reach me: sumandeep4300@gmail.com 
 - 😄 Pronouns: She/Her
@@ -30,12 +30,22 @@ Hey! I'm Suman from India. I'm a pre-final year undergraduate student majoring i
 
 ## Languages and Tools
   
-<p align="left"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/c/c-original.svg" alt="c" width="50" height="50"/> 
-<img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/cplusplus/cplusplus-original.svg" alt="cplusplus" width="50" height="50"/> 
-<img src="https://www.vectorlogo.zone/logos/git-scm/git-scm-icon.svg" alt="git" width="40" height="40"/> 
-<img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original.svg" alt="javascript" width="50" height="50"/> 
-<img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original.svg" alt="javascript" width="50" height="50"/> 
-<img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg" alt="javascript" width="50" height="50"/> </p>
+<p align="left"> 
+<img src="https://img.icons8.com/color/48/000000/c-programming.png" alt="c" width="80" height="80"/> 
+<img src="https://img.icons8.com/color/48/000000/c-plus-plus-logo.png" width="80" height="80"/> 
+<img src="https://img.icons8.com/color/48/000000/java-coffee-cup-logo--v1.png" alt="java" width="80" height="80"/> 
+<img src="https://img.icons8.com/color/48/000000/mysql-logo.png" alt="mysql" width="80" height="80"/>
+<img src="https://img.icons8.com/color/48/000000/html-5--v1.png" alt="HTML5" width="80" height="80"/> 
+<img src="https://img.icons8.com/color/48/000000/css3.png" alt="CSS3" width="80" height="80"/> 
+<img src="https://img.icons8.com/color/48/000000/javascript--v1.png" alt="javascript" width="80" height="80"/> 
+<img src="https://img.icons8.com/external-tal-revivo-color-tal-revivo/48/000000/external-react-a-javascript-library-for-building-user-interfaces-logo-color-tal-revivo.png" alt="reactjs" width="80" height="80"/> 
+<img src="https://img.icons8.com/color/48/000000/bootstrap.png" alt="bootstrap" width="80" height="80"/> 
+<img src="https://upload.wikimedia.org/wikipedia/commons/thumb/d/d5/Tailwind_CSS_Logo.svg/48px-Tailwind_CSS_Logo.png" alt="tailwindcss" width="80" height="80"/> 
+<img src="https://img.icons8.com/color/48/000000/git.png" alt="git" width="80" height="80"/> 
+<img src="https://img.icons8.com/glyph-neue/48/ffffff/github.png" alt="github" width="80" height="80"/> 
+<img src="https://img.icons8.com/color/48/000000/visual-studio-code-2019.png" alt="vscode" width="80" height="80"/> 
+<img src="https://img.icons8.com/color/48/000000/firebase.png" alt="firebase" width="80" height="80"/> 
+</p>
 <br>
 
 ## 🏆 Github Stats
