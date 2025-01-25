@@ -11,11 +11,11 @@
 </p>
 <br>
 
-Hi, I'm Suman from India, a recent graduate with a strong passion for software development. I'm currently embarking on an exciting journey as a trainee at Nagarro, where I'm delving deep into the realm of .NET technology.
+Hi, I'm Suman from India, a passionate software developer currently pursuing a Master’s degree in Applied Computing at the University of Windsor. I started my professional journey at Nagarro, where I worked extensively with C#, .NET Core, and AngularJS for full-stack development , applying design principles to build scalable, secure, and high-performing solutions.
 
-Over the years, I've cultivated my skills in full-stack development, and I'm proficient in a variety of stacks, including MERN, MEAN, and ASP.NET Core with C#. Whether it's crafting engaging front-end experiences or architecting robust back-end systems, I love bringing ideas to life through code.
+My expertise spans technologies like AngularJS, ReactJS, and Spring Boot, and more alongside cloud platforms such as Azure. From designing interactive front-end experiences to developing scalable back-end architectures, I enjoy solving complex problems and creating impactful solutions.
 
-My dedication to staying current in this ever-evolving field drives me to constantly seek new challenges and learning opportunities. If you're interested in collaborating, discussing tech trends, or just connecting with a fellow developer, don't hesitate to get in touch. Let's create something amazing together! 🚀💡💻
+I’m always eager to collaborate on innovative projects, learn emerging technologies, and create impactful solutions. Let’s connect and build something amazing together! 🚀💡 🚀💡💻
 <br><br>
 
 <!--
@@ -23,8 +23,8 @@ My dedication to staying current in this ever-evolving field drives me to consta
 
 <img align="right" src ="git.gif" alt="image" width="380" height="220"/>
   
-- 👨‍💻 I’m currently working on .net projects
-- 🌱 I’m currently exploring ReactJS
+- 👨‍💻 I’m currently working on .Net projects
+- 🌱 I’m currently exploring NextJS
 - 📫 How to reach me: sumandeep4300@gmail.com 
 - 😄 Pronouns: She/Her
 - ⚡ One line to best describe me: An ambitious girl who loves turning great ideas into reality!
